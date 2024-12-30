@@ -2,6 +2,12 @@
 
 Quark-PY is a Python library for quantum-inspired optimization in blockchain consensus and AI model compression. It implements advanced quantum computing concepts without requiring actual quantum hardware.
 
+Website: https://quarkpy.app
+
+Twitter: https://twitter.com/quarkpysol
+
+Docs: https://docs.quarkpy.app
+
 ## Features
 
 - Quantum-inspired optimization algorithms
