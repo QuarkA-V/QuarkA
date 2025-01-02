@@ -1,12 +1,10 @@
 # Quark AI - Quantum-Inspired Optimization Library
 
-Quark-PY is a Python library for quantum-inspired optimization in blockchain consensus and AI model compression. It implements advanced quantum computing concepts without requiring actual quantum hardware.
+QuarkA is a Python library for quantum-inspired optimization in blockchain consensus and AI model compression. It implements advanced quantum computing concepts without requiring actual quantum hardware.
 
-Website: https://quarkpy.app
+Website: https://quarka.app
 
-Twitter: https://twitter.com/quarkpysol
-
-Docs: https://docs.quarkpy.app
+Twitter: https://x.com/quarka_virtuals
 
 ## Features
 
@@ -19,13 +17,13 @@ Docs: https://docs.quarkpy.app
 ## Installation
 
 ```bash
-pip install quark-py
+pip install quarka
 ```
 
 ## Quick Start
 
 ```python
-from quark_py import QuantumOptimizer, ModelCompressor
+from quarka import QuantumOptimizer, ModelCompressor
 import numpy as np
 
 # Initialize optimizer
@@ -40,10 +38,6 @@ compressed_weights, accuracy = optimizer.optimize_model(
     compression_ratio=0.5
 )
 ```
-
-## Documentation
-
-For detailed documentation, visit [docs/](docs/).
 
 ## Examples
 
